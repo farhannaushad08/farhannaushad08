@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate developer who blends data science, ML, and full-stack development to solve real-world problems.I’ve developed several AI-powered web apps, from virtual debate bots to weather forecasting dashboards.
+I'm a passionate developer who blends data science, ML, and full-stack development to solve real-world problems.I’ve developed several AI-powered web apps, from real-estate project to weather forecasting dashboards.
 
 - 🎓 Currently pursuing **B.Tech in Computer Science** @ *Jamia Hamdard* (CGPA: 8.81)
 - 🛠️ Interned at **IntelliSmart Infrastructure** in AMI Data Operations (SQL + Smart Energy)
@@ -18,8 +18,7 @@ I'm a passionate developer who blends data science, ML, and full-stack developme
 
 ### 🌟 Highlighted Projects
 
-#### 🧠 [Debate Arena](https://github.com/farhannaushad08/Debate-Arena)
-> Real-time AI Debate Bot powered by LLMs, avatars, speech, emotion detection & scoring.
+
 
 #### 🌤️ [Clima AI](https://github.com/farhannaushad08/Clima-AI)
 > Global weather forecasting & analysis app using ML, anomaly detection, and 5-day trends.
