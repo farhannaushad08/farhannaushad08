@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Farhan Naushad 👋</h1>
 <p align="center">
-  B.Tech CS @ Jamia Hamdard · AI & ML Enthusiast · Streamlit App Developer
+  B.Tech CSE @ Jamia Hamdard · AI & ML Enthusiast · Streamlit App Developer
 </p>
 
 ---
