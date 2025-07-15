@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Farhan Naushad 👋</h1>
+<h1 align="center">Hi, I'm Md Farhan Naushad 👋</h1>
 <p align="center">
   B.Tech CSE @ Jamia Hamdard · AI & ML Enthusiast · Streamlit App Developer
 </p>
