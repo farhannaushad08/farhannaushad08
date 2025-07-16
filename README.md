@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Md Farhan Naushad 👋</h1>
 <p align="center">
-  B.Tech CSE @ Jamia Hamdard · AI & ML Enthusiast · Streamlit App Developer
+  B.Tech CSE @ Jamia Hamdard · AI & ML Enthusiast · Web Developer
 </p>
 
 ---
@@ -9,10 +9,10 @@
 
 I'm a passionate developer who blends data science, ML, and full-stack development to solve real-world problems.I’ve developed several AI-powered web apps, from real-estate project to weather forecasting dashboards.
 
-- 🎓 Currently pursuing **B.Tech in Computer Science** @ *Jamia Hamdard* (CGPA: 8.81)
+- 🎓 Currently pursuing **B.Tech in Computer Science** @ *Jamia Hamdard* 
 - 🛠️ Interned at **IntelliSmart Infrastructure** in AMI Data Operations (SQL + Smart Energy)
 - 🧑‍💻 Active member of **GDG on Campus** and **Copy Code Community**
-- 💡 Building tools that combine **ML**, **Streamlit**, **OpenCV**, **LLMs**, and **Data Viz**
+- 💡 Building tools that combine **ML**,**Deep Learning**,**Streamlit**,**Frontend Development**,**OpenCV**, **LLMs**, and **Data Viz**
 
 ---
 
@@ -24,7 +24,7 @@ I'm a passionate developer who blends data science, ML, and full-stack developme
 > Global weather forecasting & analysis app using ML, anomaly detection, and 5-day trends.
 
 #### 🏠 [UrbanEdge-Gurugram](https://github.com/farhannaushad08/UrbanEdge-Gurugram)
-> Price estimation for Gurugram flats using Extra Trees Regressor and full EDA dashboard.
+> Price estimation for Gurugram flats using Random Forest and full EDA dashboard.
 
 ---
 
