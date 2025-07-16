@@ -12,7 +12,7 @@ I'm a passionate developer who blends data science, ML, and full-stack developme
 - 🎓 Currently pursuing **B.Tech in Computer Science** @ *Jamia Hamdard* 
 - 🛠️ Interned at **IntelliSmart Infrastructure** in AMI Data Operations (SQL + Smart Energy)
 - 🧑‍💻 Active member of **GDG on Campus** and **Copy Code Community**
-- 💡 Building tools that combine **ML**,**Deep Learning**,**Streamlit**,**Frontend Development**,**OpenCV**, **LLMs**, and **Data Viz**
+- 💡 Building tools that combine **ML**, **Deep Learning**, **Streamlit**, **Frontend Development**,**OpenCV**,**LLMs**,   and **Data Viz**
 
 ---
 
