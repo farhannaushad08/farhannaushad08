@@ -7,24 +7,26 @@
 
 ### 🚀 About Me
 
-I'm a passionate developer who blends data science, ML, and full-stack development to solve real-world problems.I’ve developed several AI-powered web apps, from real-estate project to weather forecasting dashboards.
+I'm a passionate developer who blends data science, ML, and full-stack development to solve real-world problems.  
+I’ve developed several AI-powered web apps, from intelligent PDF chatbots to real estate pricing models and weather dashboards.
 
-- 🎓 Currently pursuing **B.Tech in Computer Science** @ *Jamia Hamdard* 
+- 🎓 Currently pursuing **B.Tech in Computer Science** @ *Jamia Hamdard*
 - 🛠️ Interned at **IntelliSmart Infrastructure** in AMI Data Operations (SQL + Smart Energy)
 - 🧑‍💻 Active member of **GDG on Campus** and **Copy Code Community**
-- 💡 Building tools that combine **ML**, **Deep Learning**, **Streamlit**, **Frontend Development**,**OpenCV**,**LLMs**,   and **Data Viz**
+- 💡 Building tools that combine **ML**, **LLMs**, **Streamlit**, **Frontend Development**, **OpenCV**, and **Data Viz**
 
 ---
 
 ### 🌟 Highlighted Projects
 
+#### 🤖 [IntelliDocs-RAG](https://github.com/farhannaushad08/IntelliDocs-RAG)  
+> Local PDF chatbot powered by Retrieval-Augmented Generation (RAG) and offline LLMs via Ollama. Supports privacy-first document QA — fully offline!
 
+#### 🏠 [UrbanEdge-Gurugram](https://github.com/farhannaushad08/UrbanEdge-Gurugram)  
+> Real estate price prediction and recommendation platform for Gurugram using Random Forest and interactive dashboards.
 
-#### 🌤️ [Clima AI](https://github.com/farhannaushad08/Clima-AI)
-> Global weather forecasting & analysis app using ML, anomaly detection, and 5-day trends.
-
-#### 🏠 [UrbanEdge-Gurugram](https://github.com/farhannaushad08/UrbanEdge-Gurugram)
-> Price estimation for Gurugram flats using Random Forest and full EDA dashboard.
+#### 🌤️ [Clima AI](https://github.com/farhannaushad08/Clima-AI)  
+> Global weather forecasting & anomaly detection app using machine learning and live data streams.
 
 ---
 
@@ -47,8 +49,6 @@ I'm a passionate developer who blends data science, ML, and full-stack developme
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-336699?logo=algolia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-
-
 ---
 
 ### 🏆 Involvement
@@ -56,6 +56,16 @@ I'm a passionate developer who blends data science, ML, and full-stack developme
 - 👨‍💻 **ML Tech Team @ GDG on Campus – Jamia Hamdard**
 - 🔧 **Technical Team @ Copy Code Community**
 - 🏅 Co-organized university-level hackathons & AI workshops
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhannaushad08&show_icons=true&theme=tokyonight" alt="Farhan's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhannaushad08&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
