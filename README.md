@@ -59,15 +59,7 @@ I’ve developed several AI-powered web apps, from intelligent PDF chatbots to r
 
 ---
 
-### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhannaushad08&show_icons=true&theme=tokyonight" alt="Farhan's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhannaushad08&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Let’s Connect!
 
