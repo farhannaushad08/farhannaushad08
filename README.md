@@ -12,8 +12,8 @@ My current research spans **AI in Healthcare**, **Medical Imaging**, **Bioinform
 
 - Pursuing **B.Tech in Computer Science** at *Jamia Hamdard*  
 - Currently working as an **AI/ML Intern at ONE Simulation**  
-- Completed an **AI/ML Bioinformatics Internship**, focusing on molecular data analysis and protein sequence modeling
-- Co-Lead at NSDC JH Data Science contribute to datascience project on dataset like Netflix, Airbnb and Movie Recommendation System.
+- Completed an **AI/ML Bioinformatics Internship**, focusing on molecular data analysis and protein sequence modeling.
+-  **Co-Lead at NSDC-JH Data Science**, contributing to applied data science projects using datasets from Netflix, Airbnb, and movie recommendation systems
 - Active member o **GDG on Campus** and **Copy Code Community**  
 - Experienced with **Machine Learning**, **Deep Learning**, **LLMs**, **Streamlit**, **OpenCV**, **Data Visualization**, and **Web Development**
 
