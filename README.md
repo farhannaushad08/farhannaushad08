@@ -93,7 +93,7 @@ A real-estate analytics and pricing platform for Gurugram using **Random Forest 
 
 ### Connect  
 
-[LinkedIn](https://www.linkedin.com/in/md-farhan-naushad/) • [GitHub](https://github.com/farhannaushad08)
+[LinkedIn](https://www.linkedin.com/in/farhannaushad01) • [GitHub](https://github.com/farhannaushad08)
 
 ---
 
